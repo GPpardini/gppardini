@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there!
 
-<!--
-**GPpardini/gppardini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Thanks for visiting! 😄
 
-Here are some ideas to get you started:
+I've been working mainly with C.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an avid self-learner and have a variety of interests:
+
+* 🎓  42lisboa student
+* ✏️  barista
+* 🌎  trails & travelling
+
+<p align="side">
+	<a href="https://www.linkedin.com/in/gpardini/">
+		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gpardini/" />
+</p>
