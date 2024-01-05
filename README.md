@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/80s-synthwave-aesthetic-k81NasbqkKA5HSyJxN">
+
 # Hi there!
 
 ### Thanks for visiting! 😄
